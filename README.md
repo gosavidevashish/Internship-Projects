@@ -34,7 +34,3 @@ A pay-per-use solar cold storage idea that helps small farmers reduce crop spoil
 ## 👤 Author
 
 **Devashish Gosavi** – Cloud Computing Intern
-
-## 👤 Author
-
-**Your Name** – Intern
